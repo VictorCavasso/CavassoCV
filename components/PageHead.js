@@ -25,7 +25,7 @@ const PageHead = () => {
       <meta property="og:site_name" content="Victor Cavasso - CV" />
       <meta property="og:title" content="Victor Cavasso - CV" />
       <meta property="og:description" content="Here is my curriculum, check it out." />
-      <meta property="og:image" itemprop="image" content="/ms-icon-144x144.png" />
+      <meta property="og:image" itemprop="image" content="https://victorcavasso.dev/images/victor-cavasso.png" />
       <meta property="og:type" content="website" />
       <meta property="og:url" content="https://victorcavasso.dev/" />
     </Head>
