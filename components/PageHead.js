@@ -20,8 +20,11 @@ const PageHead = () => {
       <link rel='icon' type='image/png' sizes='16x16' href='/favicon-16x16.png' />
       <link rel='manifest' href='/manifest.json' />
       <meta name='msapplication-TileColor' content='#ffffff' />
-      <meta name='msapplication-TileImage' content='/ms-icon-144x144.png' />
+      <meta name='msapplication-TileImage' content='/ms-icons-144x144.png' />
       <meta name='theme-color' content='#ffffff' />
+      <meta property="og:title" content="Victor Cavasso - CV" />
+      <meta property="og:description" content="Here is my curriculum, check it out." />
+      <meta property="og:image" content='/ms-icons-144x144.png' />
     </Head>
   )
 }
