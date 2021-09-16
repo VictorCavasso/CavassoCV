@@ -11,7 +11,7 @@ const skills = [
   {
     id: 2,
     skill_name: 'Fullstack Developer',
-    skill_desc: 'Javascript, ExpressJS, NextJS, ReactJS, HTML, TailwindCSS',
+    skill_desc: 'Javascript, NodeJS, ExpressJS, NextJS, ReactJS, HTML, CSS, TailwindCSS, Jest',
     stars: 2
   },
   {
